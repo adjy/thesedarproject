@@ -143,7 +143,7 @@ header
 	flex-direction:row;
 	align-items:baseline;
 }
-/*
+
 @media screen and (max-width: 1024px)
 {
 	#bloc_page
@@ -188,4 +188,4 @@ header
 	
 	}
 	
-} */
+} 
