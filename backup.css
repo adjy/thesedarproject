@@ -12,6 +12,7 @@ p
 	border-radius: 10px 5px 10px 5px;
 }
 */
+
 #conteneur
 {
 	display: flex;
@@ -54,6 +55,66 @@ nav ul
 {
 	
 }
+/*
+.instagram
+{
+	border:2px solid;
+}
+.twitter
+{
+	border:2px solid;
+}
+.snapchat
+{
+	border:2px solid;
+}
+.tiktok
+{
+	border:2px solid;
+}
+.facebook
+{
+	border:2px solid;
+}
+*/
+/*
+#liste_lien
+{
+	display:flex;
+	flex-direction:column;
+	justify-content: space-between;
+	border:2px solid #444;
+	height:200px;
+	background-color:gray;
+	
+}
+.element
+{
+	width:250px;
+	height:40px;
+}
+.element:nth-child(1)
+{
+	background-color:blue;
+	margin:auto;
+}
+.element:nth-child(2)
+{
+	background-color:red;
+}
+.element:nth-child(3)
+{
+	background-color:green;
+}
+.element:nth-child(4)
+{
+	background-color:yellow;
+}
+.element:nth-child(5)
+{
+	background-color:brown;
+}
+*/
 nav
 {
 	
