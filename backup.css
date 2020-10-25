@@ -183,7 +183,8 @@ header
 	#conteneur
 	{
 		display : flex;
-		flex-direction:column;
+		margin :auto;
+		
 	}
 	#photo_about
 	{
@@ -193,7 +194,7 @@ header
 	{
 		display: flex;
 	
-		justify-content: space-around;
+		justify-content: center;
 		text-align:justify;
 		margin: auto;
 
