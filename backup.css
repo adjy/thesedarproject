@@ -124,11 +124,13 @@ body
 	font-family:'Trebuchet', Arial, sans-serif;
 	color:#181818;
 }
-#bloc_page
-{
-	
-	width:900px;
-	margin:auto;
+body {
+	width:auto;
+	margin: auto;
+	color:black;
+	background-color:white;
+	background-image:photos/Background.jpg;
+	margin:0;
 }
 header
 {
@@ -143,6 +145,11 @@ header
 	flex-direction:row;
 	align-items:baseline;
 }
+#bloc_page
+	{
+		width:auto;
+		margin: auto;
+	}
 
 @media screen and (max-width: 1024px)
 {
