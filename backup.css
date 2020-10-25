@@ -162,6 +162,7 @@ header
 		width:auto;
 		margin: auto;
 	}
+
 	nav ul
 	{
 		flex-direction: column;
@@ -192,7 +193,7 @@ header
 	{
 		display: flex;
 	
-		text-align: center;
+		justify-content: space-around;
 		text-align:justify;
 		margin: auto;
 
