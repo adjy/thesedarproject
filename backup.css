@@ -123,12 +123,10 @@ nav
 	width: 150px;
 	
 }
-body
-{
+
+body {
 	font-family:'Trebuchet', Arial, sans-serif;
 	color:#181818;
-}
-body {
 	width:auto;
 	margin: auto;
 	color:black;
