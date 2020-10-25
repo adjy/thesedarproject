@@ -186,11 +186,11 @@ header
 	}
 	#about
 	{
-	display: flex;
+		display: flex;
 	
-	text-align: center;
-	text-align:justify;
-	margin: auto;
+		text-align: center;
+		text-align:justify;
+		margin: auto;
 
 	
 	}
